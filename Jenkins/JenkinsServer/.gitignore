@@ -1,0 +1,24 @@
+# Jenkins data (if running locally)
+jenkins_home/
+
+# Docker volumes
+*.log
+
+# Backup files
+*.tar.gz
+*.backup
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
